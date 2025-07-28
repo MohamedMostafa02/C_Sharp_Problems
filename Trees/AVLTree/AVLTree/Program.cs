@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime;
 
 class AVLNode
 {
@@ -160,6 +161,86 @@ class AVLTree
         return NewRoot;
     }
 
+    public void Delete(int value)
+    {
+        root = DeleteNode(root, value);
+    }
+
+    private AVLNode DeleteNode(AVLNode node, int value)
+    {
+        if (node == null)
+            return node;
+
+        //step 1 : perform standard BST Delete
+
+        if (value < node.Value)
+        {
+            node.Left = DeleteNode(node.Left, value);
+        }
+        else if (value > node.Value)
+        {
+            node.Right = DeleteNode(node.Right, value);
+        }
+
+        else
+        {
+            //if the node to be deleted has one child or no child
+            //simply remove the node and return the non-null child(if any).
+            //Node with only one child or no child
+
+
+                //if (node.Left == null && node.Right == null)
+                //    return null; //No Need 
+
+
+                //node with only one child or no child
+            if (node.Left == null)
+            {
+                return node.Right;
+            }
+            else if (node.Right == null)
+            {
+                return node.Left;
+            }
+
+            //if the node to be deleted has two childeren 
+            //find the smallest node in the right subtree (inorder successor),then 
+            //copy it's value to the node to be deleted, and then recursively delete the inorder successor.
+
+            //Node with two children: get the inorder successor(smallest in the right subtree)
+            AVLNode minNode = MinValueNode(node.Right);
+
+            //copy the inorder successor's data to this node
+            node.Value = minNode.Value;
+
+            //delete the inorder succssor
+            node.Right = DeleteNode(node.Right, minNode.Value);
+        }
+
+        //step 2: update height of the current node
+        UpdateHeight(node);
+
+        //step 3: rebalance the node if needed
+        return Balance(node);
+    
+
+    }
+
+    private AVLNode MinValueNode(AVLNode node)
+    {
+        //the minimum value is always located in the leftmost node.
+        // this is because for any given node in a BST
+        //all values in left subtree are less than the value of the node,
+        // and all values in the right subtree are greater.
+
+        AVLNode current  = node;
+        while(current.Left != null)
+        {
+            current = current.Left;
+        }
+        return current;
+    }
+
     public void PrintTree()
     {
         PrintTree(root, "", true);
@@ -197,7 +278,7 @@ class Program
          //int[] values = { 10, 20, 30 };
 
         //LL
-          int[] values = { 30, 20, 10 };
+         // int[] values = { 30, 20, 10 };
 
         //LR
         // int[] values = { 30, 10, 20 };
@@ -206,14 +287,21 @@ class Program
         //int[] values = { 10, 30, 20 };
 
         // Inserting values
-        //int[] values = { 10, 20, 30, 40, 50, 25 };
-        foreach (var value in values)
-        {
-            Console.WriteLine($"Inserting {value} into the AVL tree.");
-            tree.Insert(value);
-            tree.PrintTree();
-            Console.WriteLine("\n-------------------------------------------------\n");
-        }
+        int[] values = { 10, 20, 30, 40, 50, 25 };
+         foreach (var value in values)
+          {
+        //    Console.WriteLine($"Inserting {value} into the AVL tree.");
+             tree.Insert(value);
+        //    tree.PrintTree();
+        //    Console.WriteLine("\n-------------------------------------------------\n");
+          }
+        tree.PrintTree();   
+
+        tree.Delete(10);
+
+        Console.WriteLine("\nAfter Deletion.\n");
+
+        tree.PrintTree();
         Console.ReadKey();
 
     }
