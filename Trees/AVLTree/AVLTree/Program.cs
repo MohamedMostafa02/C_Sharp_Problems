@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Runtime;
+
 
 class AVLNode
 {
@@ -161,6 +161,7 @@ class AVLTree
         return NewRoot;
     }
 
+
     public void Delete(int value)
     {
         root = DeleteNode(root, value);
@@ -169,10 +170,11 @@ class AVLTree
     private AVLNode DeleteNode(AVLNode node, int value)
     {
         if (node == null)
+        {
             return node;
+        }
 
-        //step 1 : perform standard BST Delete
-
+        // Step 1: Perform standard BST delete
         if (value < node.Value)
         {
             node.Left = DeleteNode(node.Left, value);
@@ -181,19 +183,12 @@ class AVLTree
         {
             node.Right = DeleteNode(node.Right, value);
         }
-
         else
         {
-            //if the node to be deleted has one child or no child
-            //simply remove the node and return the non-null child(if any).
-            //Node with only one child or no child
+            //If the node to be deleted has one child or no child,
+            //simply remove the node and return the non - null child(if any).
 
-
-                //if (node.Left == null && node.Right == null)
-                //    return null; //No Need 
-
-
-                //node with only one child or no child
+            // Node with only one child or no child
             if (node.Left == null)
             {
                 return node.Right;
@@ -203,43 +198,98 @@ class AVLTree
                 return node.Left;
             }
 
-            //if the node to be deleted has two childeren 
-            //find the smallest node in the right subtree (inorder successor),then 
-            //copy it's value to the node to be deleted, and then recursively delete the inorder successor.
+            //if the node to be deleted has two children,
+            //find the smallest node in the right subtree (inorder successor), then
+            //copy its value to the node to be deleted, and then recursively delete the inorder successor.
 
-            //Node with two children: get the inorder successor(smallest in the right subtree)
-            AVLNode minNode = MinValueNode(node.Right);
+            // Node with two children: Get the inorder successor (smallest in the right subtree)
+            AVLNode temp = MinValueNode(node.Right);
 
-            //copy the inorder successor's data to this node
-            node.Value = minNode.Value;
+            // Copy the inorder successor's data to this node
+            node.Value = temp.Value;
 
-            //delete the inorder succssor
-            node.Right = DeleteNode(node.Right, minNode.Value);
+            // Delete the inorder successor
+            node.Right = DeleteNode(node.Right, temp.Value);
         }
 
-        //step 2: update height of the current node
+        // Step 2: Update height of the current node
         UpdateHeight(node);
 
-        //step 3: rebalance the node if needed
+        // Step 3: Rebalance the node if needed
         return Balance(node);
-    
-
     }
 
     private AVLNode MinValueNode(AVLNode node)
     {
-        //the minimum value is always located in the leftmost node.
-        // this is because for any given node in a BST
-        //all values in left subtree are less than the value of the node,
+        // the minimum value is always located in the leftmost node.
+        // This is because for any given node in a BST,
+        // all values in the left subtree are less than the value of the node,
         // and all values in the right subtree are greater.
-
-        AVLNode current  = node;
-        while(current.Left != null)
+        AVLNode current = node;
+        while (current.Left != null)
         {
             current = current.Left;
         }
         return current;
     }
+
+    // Method to search for a value in the AVL Tree
+    public bool Exists(int value)
+    {
+        return Exists(root, value);
+    }
+
+    // Private recursive helper function to perform the search and returns true if found
+    private bool Exists(AVLNode node, int value)
+    {
+        if (node == null)
+        {
+            return false; // Value not found
+        }
+
+        if (value < node.Value)
+        {
+            return Exists(node.Left, value); // Search in the left subtree
+        }
+        else if (value > node.Value)
+        {
+            return Exists(node.Right, value); // Search in the right subtree
+        }
+        else
+        {
+            return true; // Value found
+        }
+    }
+
+
+    // Method to search for a value in the AVL Tree and returns the node if found
+    public AVLNode Search(int value)
+    {
+        return Search(root, value);
+    }
+
+    // Private recursive helper function to perform the search
+    private AVLNode Search(AVLNode node, int value)
+    {
+        if (node == null)
+        {
+            return null; // Value not found
+        }
+
+        if (value < node.Value)
+        {
+            return Search(node.Left, value); // Search in the left subtree
+        }
+        else if (value > node.Value)
+        {
+            return Search(node.Right, value); // Search in the right subtree
+        }
+        else
+        {
+            return node; // Value found, return the node
+        }
+    }
+
 
     public void PrintTree()
     {
@@ -274,34 +324,36 @@ class Program
     {
         AVLTree tree = new AVLTree();
 
-        //RR
-         //int[] values = { 10, 20, 30 };
-
-        //LL
-         // int[] values = { 30, 20, 10 };
-
-        //LR
-        // int[] values = { 30, 10, 20 };
-
-        //RL
-        //int[] values = { 10, 30, 20 };
-
         // Inserting values
         int[] values = { 10, 20, 30, 40, 50, 25 };
-         foreach (var value in values)
-          {
-        //    Console.WriteLine($"Inserting {value} into the AVL tree.");
-             tree.Insert(value);
-        //    tree.PrintTree();
-        //    Console.WriteLine("\n-------------------------------------------------\n");
-          }
-        tree.PrintTree();   
+        foreach (var value in values)
+        {
+            tree.Insert(value);
+        }
 
-        tree.Delete(10);
-
-        Console.WriteLine("\nAfter Deletion.\n");
-
+        // Print the tree
         tree.PrintTree();
+
+        // Searching for values
+        int searchValue = 30;
+        bool found = tree.Exists(searchValue);
+        Console.WriteLine($"\nSearch for value {searchValue}: " + (found ? "Found" : "Not Found"));
+
+        searchValue = 60;
+        found = tree.Exists(searchValue);
+        Console.WriteLine($"Search for value {searchValue}: " + (found ? "Found" : "Not Found"));
+
+
+
+        // Searching for values and printing the results
+        int searchValue2 = 30;
+        AVLNode foundNode = tree.Search(searchValue2);
+        Console.WriteLine($"\nSearch for value {searchValue2}: " + (foundNode != null ? $"Found node with value: {foundNode.Value}" : "Not Found"));
+
+        searchValue2 = 60;
+        foundNode = tree.Search(searchValue);
+        Console.WriteLine($"Search for value {searchValue2}: " + (foundNode != null ? $"Found node with value: {foundNode.Value}" : "Not Found"));
+
         Console.ReadKey();
 
     }
