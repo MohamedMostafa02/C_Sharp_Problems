@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{31FA2672-126E-4333-9337-DC816163A481}</ProjectGuid>
+    <ProjectGuid>{868E8D6E-618A-4635-9138-751F83146BD3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AutoComplete_AVL_Application_</RootNamespace>
-    <AssemblyName>AutoComplete%28AVL Application%29</AssemblyName>
+    <RootNamespace>AutoComplete_AVL</RootNamespace>
+    <AssemblyName>AutoComplete-AVL</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

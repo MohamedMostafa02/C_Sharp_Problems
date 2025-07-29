@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("AutoComplete(AVL Application)")]
+[assembly: AssemblyTitle("AutoComplete-AVL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AutoComplete(AVL Application)")]
+[assembly: AssemblyProduct("AutoComplete-AVL")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("31fa2672-126e-4333-9337-dc816163a481")]
+[assembly: Guid("868e8d6e-618a-4635-9138-751f83146bd3")]
 
 // Version information for an assembly consists of the following four values:
 //
