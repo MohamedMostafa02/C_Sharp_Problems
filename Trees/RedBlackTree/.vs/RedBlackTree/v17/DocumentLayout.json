@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C_Sharp_Problems\\Trees\\RedBlackTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29627B79-CCF9-44EE-96AA-67C8DFFCE909}|RedBlackTree\\RedBlackTree.csproj|g:\\c_sharp_problems\\trees\\redblacktree\\redblacktree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29627B79-CCF9-44EE-96AA-67C8DFFCE909}|RedBlackTree\\RedBlackTree.csproj|solutionrelative:redblacktree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\C_Sharp_Problems\\Trees\\RedBlackTree\\RedBlackTree\\Program.cs",
+              "RelativeDocumentMoniker": "RedBlackTree\\Program.cs",
+              "ToolTip": "G:\\C_Sharp_Problems\\Trees\\RedBlackTree\\RedBlackTree\\Program.cs",
+              "RelativeToolTip": "RedBlackTree\\Program.cs",
+              "ViewState": "AgIAAMUBAAAAAAAAAAAAAOcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T01:08:22.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
