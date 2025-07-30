@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph-AdjacencyMatrix", "Graph-AdjacencyMatrix\Graph-AdjacencyMatrix.csproj", "{00939FCA-0217-4E02-969D-2A86A4DEAABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00939FCA-0217-4E02-969D-2A86A4DEAABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00939FCA-0217-4E02-969D-2A86A4DEAABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00939FCA-0217-4E02-969D-2A86A4DEAABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00939FCA-0217-4E02-969D-2A86A4DEAABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F820A049-2684-45D6-AE5B-622CEC62AD1F}
+	EndGlobalSection
+EndGlobal

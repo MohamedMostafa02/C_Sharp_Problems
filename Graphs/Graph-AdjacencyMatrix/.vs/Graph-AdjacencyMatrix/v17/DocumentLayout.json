@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C_Sharp_Problems\\Graphs\\Graph-AdjacencyMatrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00939FCA-0217-4E02-969D-2A86A4DEAABE}|Graph-AdjacencyMatrix\\Graph-AdjacencyMatrix.csproj|g:\\c_sharp_problems\\graphs\\graph-adjacencymatrix\\graph-adjacencymatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00939FCA-0217-4E02-969D-2A86A4DEAABE}|Graph-AdjacencyMatrix\\Graph-AdjacencyMatrix.csproj|solutionrelative:graph-adjacencymatrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\C_Sharp_Problems\\Graphs\\Graph-AdjacencyMatrix\\Graph-AdjacencyMatrix\\Program.cs",
+              "RelativeDocumentMoniker": "Graph-AdjacencyMatrix\\Program.cs",
+              "ToolTip": "G:\\C_Sharp_Problems\\Graphs\\Graph-AdjacencyMatrix\\Graph-AdjacencyMatrix\\Program.cs",
+              "RelativeToolTip": "Graph-AdjacencyMatrix\\Program.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAqwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:11:34.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
