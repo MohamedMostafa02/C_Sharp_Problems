@@ -1,57 +1,95 @@
-# Graph Traversal (Adjacency Matrix) in C#
+# Graph Traversal in C# (Adjacency Matrix)
 
-This project implements a simple graph using an **adjacency matrix** in C#. It supports the following operations:
-
-- **Add Edges** (directed or undirected)
-- **Display Graph** (Adjacency Matrix)
-- **Breadth-First Search (BFS)**
+This project demonstrates how to implement a **graph** in C# using an **adjacency matrix** along with **BFS (Breadth-First Search)** and **DFS (Depth-First Search)** traversal algorithms.
 
 ---
 
-## 💻 Sample Output
+## 📌 Features
+
+- Supports **directed** and **undirected** graphs.
+- Uses an **adjacency matrix** for internal representation.
+- Allows adding weighted edges between vertices.
+- Includes:
+  - `DisplayGraph()` to print the adjacency matrix.
+  - `BFS(startVertex)` traversal.
+  - `DFS(startVertex)` traversal.
+
+---
+
+## 📦 File Structure
+
+GraphTraversal/
+├── Graph.cs
+└── README.md
+
+
+---
+
+## ✅ Example Graph
+
+Vertices:
+0, 1, 2, 3, 4
+
+
+Edges:
+
+0 ↔ 1
+0 ↔ 2
+0 ↔ 3
+2 ↔ 3
+2 ↔ 4
+
+
+---
+
+## 🧠 Sample Output
 
 Adjacency Matrix (Undirected Graph):
 
 0 1 2 3 4
-0 0 1 1 0 0
-1 1 0 1 1 0
-2 1 1 0 1 1
-3 0 1 1 0 0
+0 0 1 1 1 0
+1 1 0 0 0 0
+2 1 0 0 1 1
+3 1 0 1 0 0
 4 0 0 1 0 0
 
-Breadth-First Search:
-0 1 2 3 4
+Depth-First Search:
+0 3 2 4 1
 
 
 ---
 
-## 📁 File Structure
+## 🚀 How to Run
 
-/GraphTraversal
-│
-├── Graph.cs # Main Graph class implementation with BFS
-├── README.md # Project description and usage
-
+1. Open the solution in **Visual Studio** or any C# editor.
+2. Compile and run `Graph.cs`.
+3. Observe the printed matrix and DFS result.
 
 ---
 
-## ▶️ How to Run
+## 🛠️ How to Edit this README in GitHub
 
-1. Create a new Console App in Visual Studio.
-2. Copy the contents of `Graph.cs` into `Program.cs`.
-3. Build and run the project.
+1. Go to your repository on GitHub.
+2. Navigate to the folder: `Trees/GraphTraversal` (or the folder where `README.md` is located).
+3. Click on the file `README.md`.
+4. Click the **pencil icon (Edit this file)** in the upper right.
+5. Make your changes.
+6. Scroll down and write a **commit message** (e.g., "Update README with output").
+7. Click **Commit changes**.
 
----
-
-## 📌 Notes
-
-- The graph can be directed or undirected based on enum selection.
-- Vertices are identified by names like `"0"`, `"1"`, etc.
-- All edges are weighted (default weight = 1).
+✅ That's it — the file is now updated!
 
 ---
 
-## ✍️ Author
+## 🔗 Related Topics
+
+- Adjacency Matrix vs. Adjacency List
+- Graph Traversals
+- C# Data Structures
+
+---
+
+## 📧 Author
 
 Mohamed Mostafa  
 
