@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph-AdjacencyList", "Graph-AdjacencyList\Graph-AdjacencyList.csproj", "{EA2C3DBD-1CCD-4703-9287-537159D1DB92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2C3DBD-1CCD-4703-9287-537159D1DB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2C3DBD-1CCD-4703-9287-537159D1DB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2C3DBD-1CCD-4703-9287-537159D1DB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2C3DBD-1CCD-4703-9287-537159D1DB92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA70741E-BBAF-4B9D-80C0-79832C96F43A}
+	EndGlobalSection
+EndGlobal
