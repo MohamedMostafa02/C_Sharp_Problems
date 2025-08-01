@@ -1,0 +1,8 @@
+G:\C_Sharp_Problems\QueueProblems\GenerateBinaryNumbers\GenerateBinaryNumbers\bin\Debug\GenerateBinaryNumbers.exe.config
+G:\C_Sharp_Problems\QueueProblems\GenerateBinaryNumbers\GenerateBinaryNumbers\bin\Debug\GenerateBinaryNumbers.exe
+G:\C_Sharp_Problems\QueueProblems\GenerateBinaryNumbers\GenerateBinaryNumbers\bin\Debug\GenerateBinaryNumbers.pdb
+G:\C_Sharp_Problems\QueueProblems\GenerateBinaryNumbers\GenerateBinaryNumbers\obj\Debug\GenerateBinaryNumbers.csproj.AssemblyReference.cache
+G:\C_Sharp_Problems\QueueProblems\GenerateBinaryNumbers\GenerateBinaryNumbers\obj\Debug\GenerateBinaryNumbers.csproj.CoreCompileInputs.cache
+G:\C_Sharp_Problems\QueueProblems\GenerateBinaryNumbers\GenerateBinaryNumbers\obj\Debug\GenerateBinaryNumbers.exe
+G:\C_Sharp_Problems\QueueProblems\GenerateBinaryNumbers\GenerateBinaryNumbers\obj\Debug\GenerateBinaryNumbers.pdb
+G:\C_Sharp_Problems\QueueProblems\GenerateBinaryNumbers\GenerateBinaryNumbers\obj\Debug\GenerateBinaryNumbers.exe.config
