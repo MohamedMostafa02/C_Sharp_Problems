@@ -1,0 +1,8 @@
+G:\C_Sharp_Problems\QueueProblems\MergeTwoSortedQueues\MergeTwoSortedQueues\bin\Debug\MergeTwoSortedQueues.exe.config
+G:\C_Sharp_Problems\QueueProblems\MergeTwoSortedQueues\MergeTwoSortedQueues\bin\Debug\MergeTwoSortedQueues.exe
+G:\C_Sharp_Problems\QueueProblems\MergeTwoSortedQueues\MergeTwoSortedQueues\bin\Debug\MergeTwoSortedQueues.pdb
+G:\C_Sharp_Problems\QueueProblems\MergeTwoSortedQueues\MergeTwoSortedQueues\obj\Debug\MergeTwoSortedQueues.csproj.AssemblyReference.cache
+G:\C_Sharp_Problems\QueueProblems\MergeTwoSortedQueues\MergeTwoSortedQueues\obj\Debug\MergeTwoSortedQueues.csproj.CoreCompileInputs.cache
+G:\C_Sharp_Problems\QueueProblems\MergeTwoSortedQueues\MergeTwoSortedQueues\obj\Debug\MergeTwoSortedQueues.exe
+G:\C_Sharp_Problems\QueueProblems\MergeTwoSortedQueues\MergeTwoSortedQueues\obj\Debug\MergeTwoSortedQueues.pdb
+G:\C_Sharp_Problems\QueueProblems\MergeTwoSortedQueues\MergeTwoSortedQueues\obj\Debug\MergeTwoSortedQueues.exe.config
