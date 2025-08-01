@@ -1,0 +1,8 @@
+G:\C_Sharp_Problems\QueueProblems\PrinterJobScheduling\PrinterJobScheduling\bin\Debug\PrinterJobScheduling.exe.config
+G:\C_Sharp_Problems\QueueProblems\PrinterJobScheduling\PrinterJobScheduling\bin\Debug\PrinterJobScheduling.exe
+G:\C_Sharp_Problems\QueueProblems\PrinterJobScheduling\PrinterJobScheduling\bin\Debug\PrinterJobScheduling.pdb
+G:\C_Sharp_Problems\QueueProblems\PrinterJobScheduling\PrinterJobScheduling\obj\Debug\PrinterJobScheduling.csproj.AssemblyReference.cache
+G:\C_Sharp_Problems\QueueProblems\PrinterJobScheduling\PrinterJobScheduling\obj\Debug\PrinterJobScheduling.csproj.CoreCompileInputs.cache
+G:\C_Sharp_Problems\QueueProblems\PrinterJobScheduling\PrinterJobScheduling\obj\Debug\PrinterJobScheduling.exe
+G:\C_Sharp_Problems\QueueProblems\PrinterJobScheduling\PrinterJobScheduling\obj\Debug\PrinterJobScheduling.pdb
+G:\C_Sharp_Problems\QueueProblems\PrinterJobScheduling\PrinterJobScheduling\obj\Debug\PrinterJobScheduling.exe.config
