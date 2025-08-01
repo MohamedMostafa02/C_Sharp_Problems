@@ -1,0 +1,8 @@
+G:\C_Sharp_Problems\QueueProblems\SortQueue\SortQueue\bin\Debug\SortQueue.exe.config
+G:\C_Sharp_Problems\QueueProblems\SortQueue\SortQueue\bin\Debug\SortQueue.exe
+G:\C_Sharp_Problems\QueueProblems\SortQueue\SortQueue\bin\Debug\SortQueue.pdb
+G:\C_Sharp_Problems\QueueProblems\SortQueue\SortQueue\obj\Debug\SortQueue.csproj.AssemblyReference.cache
+G:\C_Sharp_Problems\QueueProblems\SortQueue\SortQueue\obj\Debug\SortQueue.csproj.CoreCompileInputs.cache
+G:\C_Sharp_Problems\QueueProblems\SortQueue\SortQueue\obj\Debug\SortQueue.exe
+G:\C_Sharp_Problems\QueueProblems\SortQueue\SortQueue\obj\Debug\SortQueue.pdb
+G:\C_Sharp_Problems\QueueProblems\SortQueue\SortQueue\obj\Debug\SortQueue.exe.config
