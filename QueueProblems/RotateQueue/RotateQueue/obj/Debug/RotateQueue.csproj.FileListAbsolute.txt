@@ -1,0 +1,8 @@
+G:\C_Sharp_Problems\QueueProblems\RotateQueue\RotateQueue\bin\Debug\RotateQueue.exe.config
+G:\C_Sharp_Problems\QueueProblems\RotateQueue\RotateQueue\bin\Debug\RotateQueue.exe
+G:\C_Sharp_Problems\QueueProblems\RotateQueue\RotateQueue\bin\Debug\RotateQueue.pdb
+G:\C_Sharp_Problems\QueueProblems\RotateQueue\RotateQueue\obj\Debug\RotateQueue.csproj.AssemblyReference.cache
+G:\C_Sharp_Problems\QueueProblems\RotateQueue\RotateQueue\obj\Debug\RotateQueue.csproj.CoreCompileInputs.cache
+G:\C_Sharp_Problems\QueueProblems\RotateQueue\RotateQueue\obj\Debug\RotateQueue.exe
+G:\C_Sharp_Problems\QueueProblems\RotateQueue\RotateQueue\obj\Debug\RotateQueue.pdb
+G:\C_Sharp_Problems\QueueProblems\RotateQueue\RotateQueue\obj\Debug\RotateQueue.exe.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateQueue", "RotateQueue\RotateQueue.csproj", "{BB0830BF-CF35-4063-93E3-5FA398C0CCAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0830BF-CF35-4063-93E3-5FA398C0CCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0830BF-CF35-4063-93E3-5FA398C0CCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0830BF-CF35-4063-93E3-5FA398C0CCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0830BF-CF35-4063-93E3-5FA398C0CCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4933216F-0A6E-431A-87B7-B74E9D59181A}
+	EndGlobalSection
+EndGlobal
