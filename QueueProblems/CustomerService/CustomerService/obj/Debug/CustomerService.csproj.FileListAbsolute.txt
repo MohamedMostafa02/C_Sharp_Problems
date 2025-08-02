@@ -1,8 +1,0 @@
-G:\C_Sharp_Problems\QueueProblems\CustomerService\CustomerService\bin\Debug\CustomerService.exe.config
-G:\C_Sharp_Problems\QueueProblems\CustomerService\CustomerService\bin\Debug\CustomerService.exe
-G:\C_Sharp_Problems\QueueProblems\CustomerService\CustomerService\bin\Debug\CustomerService.pdb
-G:\C_Sharp_Problems\QueueProblems\CustomerService\CustomerService\obj\Debug\CustomerService.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\QueueProblems\CustomerService\CustomerService\obj\Debug\CustomerService.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\QueueProblems\CustomerService\CustomerService\obj\Debug\CustomerService.exe
-G:\C_Sharp_Problems\QueueProblems\CustomerService\CustomerService\obj\Debug\CustomerService.pdb
-G:\C_Sharp_Problems\QueueProblems\CustomerService\CustomerService\obj\Debug\CustomerService.exe.config

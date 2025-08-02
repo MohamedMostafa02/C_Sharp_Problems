@@ -1,7 +1,0 @@
-G:\C_Sharp_Problems\StackProblem\BrowserBackButton\BrowserBackButton\bin\Debug\BrowserBackButton.exe.config
-G:\C_Sharp_Problems\StackProblem\BrowserBackButton\BrowserBackButton\bin\Debug\BrowserBackButton.exe
-G:\C_Sharp_Problems\StackProblem\BrowserBackButton\BrowserBackButton\bin\Debug\BrowserBackButton.pdb
-G:\C_Sharp_Problems\StackProblem\BrowserBackButton\BrowserBackButton\obj\Debug\BrowserBackButton.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\StackProblem\BrowserBackButton\BrowserBackButton\obj\Debug\BrowserBackButton.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\StackProblem\BrowserBackButton\BrowserBackButton\obj\Debug\BrowserBackButton.exe
-G:\C_Sharp_Problems\StackProblem\BrowserBackButton\BrowserBackButton\obj\Debug\BrowserBackButton.pdb

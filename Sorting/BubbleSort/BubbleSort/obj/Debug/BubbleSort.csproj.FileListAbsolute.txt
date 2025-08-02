@@ -1,7 +1,0 @@
-G:\C_Sharp_Problems\General Problems\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
-G:\C_Sharp_Problems\General Problems\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
-G:\C_Sharp_Problems\General Problems\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
-G:\C_Sharp_Problems\General Problems\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\General Problems\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\General Problems\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
-G:\C_Sharp_Problems\General Problems\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

@@ -1,8 +1,0 @@
-G:\C_Sharp_Problems\QueueProblems\PalindromeQueue\PalindromeQueue\bin\Debug\PalindromeQueue.exe.config
-G:\C_Sharp_Problems\QueueProblems\PalindromeQueue\PalindromeQueue\bin\Debug\PalindromeQueue.exe
-G:\C_Sharp_Problems\QueueProblems\PalindromeQueue\PalindromeQueue\bin\Debug\PalindromeQueue.pdb
-G:\C_Sharp_Problems\QueueProblems\PalindromeQueue\PalindromeQueue\obj\Debug\PalindromeQueue.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\QueueProblems\PalindromeQueue\PalindromeQueue\obj\Debug\PalindromeQueue.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\QueueProblems\PalindromeQueue\PalindromeQueue\obj\Debug\PalindromeQueue.exe
-G:\C_Sharp_Problems\QueueProblems\PalindromeQueue\PalindromeQueue\obj\Debug\PalindromeQueue.pdb
-G:\C_Sharp_Problems\QueueProblems\PalindromeQueue\PalindromeQueue\obj\Debug\PalindromeQueue.exe.config

@@ -1,7 +1,0 @@
-G:\C_Sharp_Problems\Trees\AutoComplete-AVL\AutoComplete-AVL\bin\Debug\AutoComplete-AVL.exe.config
-G:\C_Sharp_Problems\Trees\AutoComplete-AVL\AutoComplete-AVL\bin\Debug\AutoComplete-AVL.exe
-G:\C_Sharp_Problems\Trees\AutoComplete-AVL\AutoComplete-AVL\bin\Debug\AutoComplete-AVL.pdb
-G:\C_Sharp_Problems\Trees\AutoComplete-AVL\AutoComplete-AVL\obj\Debug\AutoComplete-AVL.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\Trees\AutoComplete-AVL\AutoComplete-AVL\obj\Debug\AutoComplete-AVL.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\Trees\AutoComplete-AVL\AutoComplete-AVL\obj\Debug\AutoComplete-AVL.exe
-G:\C_Sharp_Problems\Trees\AutoComplete-AVL\AutoComplete-AVL\obj\Debug\AutoComplete-AVL.pdb

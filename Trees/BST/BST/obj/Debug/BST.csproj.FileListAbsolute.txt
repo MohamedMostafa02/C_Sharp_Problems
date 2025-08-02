@@ -1,7 +1,0 @@
-G:\C_Sharp_Problems\General Problems\BST\BST\bin\Debug\BST.exe.config
-G:\C_Sharp_Problems\General Problems\BST\BST\bin\Debug\BST.exe
-G:\C_Sharp_Problems\General Problems\BST\BST\bin\Debug\BST.pdb
-G:\C_Sharp_Problems\General Problems\BST\BST\obj\Debug\BST.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\General Problems\BST\BST\obj\Debug\BST.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\General Problems\BST\BST\obj\Debug\BST.exe
-G:\C_Sharp_Problems\General Problems\BST\BST\obj\Debug\BST.pdb

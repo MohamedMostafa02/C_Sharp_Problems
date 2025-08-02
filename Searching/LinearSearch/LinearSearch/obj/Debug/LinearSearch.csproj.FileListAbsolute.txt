@@ -1,8 +1,0 @@
-G:\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
-G:\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
-G:\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
-G:\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.AssemblyReference.cache
-G:\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
-G:\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
-G:\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb
-G:\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe.config

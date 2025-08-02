@@ -1,7 +1,0 @@
-G:\C_Sharp_Problems\Graphs\DFS\DFS\bin\Debug\DFS.exe.config
-G:\C_Sharp_Problems\Graphs\DFS\DFS\bin\Debug\DFS.exe
-G:\C_Sharp_Problems\Graphs\DFS\DFS\bin\Debug\DFS.pdb
-G:\C_Sharp_Problems\Graphs\DFS\DFS\obj\Debug\DFS.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\Graphs\DFS\DFS\obj\Debug\DFS.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\Graphs\DFS\DFS\obj\Debug\DFS.exe
-G:\C_Sharp_Problems\Graphs\DFS\DFS\obj\Debug\DFS.pdb

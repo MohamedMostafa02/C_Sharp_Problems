@@ -1,8 +1,0 @@
-G:\C_Sharp_Problems\QueueProblems\QueueUsingTwoStacks\QueueUsingTwoStacks\bin\Debug\QueueUsingTwoStacks.exe.config
-G:\C_Sharp_Problems\QueueProblems\QueueUsingTwoStacks\QueueUsingTwoStacks\bin\Debug\QueueUsingTwoStacks.exe
-G:\C_Sharp_Problems\QueueProblems\QueueUsingTwoStacks\QueueUsingTwoStacks\bin\Debug\QueueUsingTwoStacks.pdb
-G:\C_Sharp_Problems\QueueProblems\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\QueueUsingTwoStacks.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\QueueProblems\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\QueueUsingTwoStacks.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\QueueProblems\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\QueueUsingTwoStacks.exe
-G:\C_Sharp_Problems\QueueProblems\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\QueueUsingTwoStacks.pdb
-G:\C_Sharp_Problems\QueueProblems\QueueUsingTwoStacks\QueueUsingTwoStacks\obj\Debug\QueueUsingTwoStacks.exe.config

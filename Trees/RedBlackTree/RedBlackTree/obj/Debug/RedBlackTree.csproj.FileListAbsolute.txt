@@ -1,8 +1,0 @@
-G:\C_Sharp_Problems\Trees\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.exe.config
-G:\C_Sharp_Problems\Trees\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.exe
-G:\C_Sharp_Problems\Trees\RedBlackTree\RedBlackTree\bin\Debug\RedBlackTree.pdb
-G:\C_Sharp_Problems\Trees\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\Trees\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\Trees\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.exe
-G:\C_Sharp_Problems\Trees\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.pdb
-G:\C_Sharp_Problems\Trees\RedBlackTree\RedBlackTree\obj\Debug\RedBlackTree.exe.config

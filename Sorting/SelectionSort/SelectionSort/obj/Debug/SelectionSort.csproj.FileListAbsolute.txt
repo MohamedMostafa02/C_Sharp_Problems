@@ -1,7 +1,0 @@
-G:\C_Sharp_Problems\General Problems\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
-G:\C_Sharp_Problems\General Problems\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
-G:\C_Sharp_Problems\General Problems\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
-G:\C_Sharp_Problems\General Problems\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\General Problems\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\General Problems\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
-G:\C_Sharp_Problems\General Problems\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb

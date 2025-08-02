@@ -1,8 +1,0 @@
-G:\C_Sharp_Problems\QueueProblems\ReverseQueue\ReverseQueue\bin\Debug\ReverseQueue.exe.config
-G:\C_Sharp_Problems\QueueProblems\ReverseQueue\ReverseQueue\bin\Debug\ReverseQueue.exe
-G:\C_Sharp_Problems\QueueProblems\ReverseQueue\ReverseQueue\bin\Debug\ReverseQueue.pdb
-G:\C_Sharp_Problems\QueueProblems\ReverseQueue\ReverseQueue\obj\Debug\ReverseQueue.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\QueueProblems\ReverseQueue\ReverseQueue\obj\Debug\ReverseQueue.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\QueueProblems\ReverseQueue\ReverseQueue\obj\Debug\ReverseQueue.exe
-G:\C_Sharp_Problems\QueueProblems\ReverseQueue\ReverseQueue\obj\Debug\ReverseQueue.pdb
-G:\C_Sharp_Problems\QueueProblems\ReverseQueue\ReverseQueue\obj\Debug\ReverseQueue.exe.config

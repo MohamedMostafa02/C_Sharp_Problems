@@ -1,8 +1,0 @@
-G:\C_Sharp_Problems\QueueProblems\InterleaveQueue\InterleaveQueue\bin\Debug\InterleaveQueue.exe.config
-G:\C_Sharp_Problems\QueueProblems\InterleaveQueue\InterleaveQueue\bin\Debug\InterleaveQueue.exe
-G:\C_Sharp_Problems\QueueProblems\InterleaveQueue\InterleaveQueue\bin\Debug\InterleaveQueue.pdb
-G:\C_Sharp_Problems\QueueProblems\InterleaveQueue\InterleaveQueue\obj\Debug\InterleaveQueue.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\QueueProblems\InterleaveQueue\InterleaveQueue\obj\Debug\InterleaveQueue.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\QueueProblems\InterleaveQueue\InterleaveQueue\obj\Debug\InterleaveQueue.exe
-G:\C_Sharp_Problems\QueueProblems\InterleaveQueue\InterleaveQueue\obj\Debug\InterleaveQueue.pdb
-G:\C_Sharp_Problems\QueueProblems\InterleaveQueue\InterleaveQueue\obj\Debug\InterleaveQueue.exe.config

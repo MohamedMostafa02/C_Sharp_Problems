@@ -1,7 +1,0 @@
-G:\C_Sharp_Problems\General Problems\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
-G:\C_Sharp_Problems\General Problems\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
-G:\C_Sharp_Problems\General Problems\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
-G:\C_Sharp_Problems\General Problems\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\General Problems\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\General Problems\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
-G:\C_Sharp_Problems\General Problems\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb

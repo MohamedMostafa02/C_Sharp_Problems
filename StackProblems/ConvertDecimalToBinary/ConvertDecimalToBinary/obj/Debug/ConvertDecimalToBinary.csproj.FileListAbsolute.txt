@@ -1,7 +1,0 @@
-G:\C_Sharp_Problems\StackProblems\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe.config
-G:\C_Sharp_Problems\StackProblems\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.exe
-G:\C_Sharp_Problems\StackProblems\ConvertDecimalToBinary\ConvertDecimalToBinary\bin\Debug\ConvertDecimalToBinary.pdb
-G:\C_Sharp_Problems\StackProblems\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\StackProblems\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\StackProblems\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.exe
-G:\C_Sharp_Problems\StackProblems\ConvertDecimalToBinary\ConvertDecimalToBinary\obj\Debug\ConvertDecimalToBinary.pdb

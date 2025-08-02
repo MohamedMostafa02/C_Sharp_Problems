@@ -1,8 +1,0 @@
-G:\C_Sharp_Problems\StackProblems\SimpleBackTracking\SimpleBackTracking\bin\Debug\SimpleBackTracking.exe.config
-G:\C_Sharp_Problems\StackProblems\SimpleBackTracking\SimpleBackTracking\bin\Debug\SimpleBackTracking.exe
-G:\C_Sharp_Problems\StackProblems\SimpleBackTracking\SimpleBackTracking\bin\Debug\SimpleBackTracking.pdb
-G:\C_Sharp_Problems\StackProblems\SimpleBackTracking\SimpleBackTracking\obj\Debug\SimpleBackTracking.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\StackProblems\SimpleBackTracking\SimpleBackTracking\obj\Debug\SimpleBackTracking.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\StackProblems\SimpleBackTracking\SimpleBackTracking\obj\Debug\SimpleBackTracking.exe
-G:\C_Sharp_Problems\StackProblems\SimpleBackTracking\SimpleBackTracking\obj\Debug\SimpleBackTracking.pdb
-G:\C_Sharp_Problems\StackProblems\SimpleBackTracking\SimpleBackTracking\obj\Debug\SimpleBackTracking.exe.config

@@ -1,8 +1,0 @@
-G:\C_Sharp_Problems\General Problems\BinaryTreeTraversals\BinaryTreeTraversals\bin\Debug\BinaryTreeTraversals.exe.config
-G:\C_Sharp_Problems\General Problems\BinaryTreeTraversals\BinaryTreeTraversals\bin\Debug\BinaryTreeTraversals.exe
-G:\C_Sharp_Problems\General Problems\BinaryTreeTraversals\BinaryTreeTraversals\bin\Debug\BinaryTreeTraversals.pdb
-G:\C_Sharp_Problems\General Problems\BinaryTreeTraversals\BinaryTreeTraversals\obj\Debug\BinaryTreeTraversals.csproj.AssemblyReference.cache
-G:\C_Sharp_Problems\General Problems\BinaryTreeTraversals\BinaryTreeTraversals\obj\Debug\BinaryTreeTraversals.csproj.CoreCompileInputs.cache
-G:\C_Sharp_Problems\General Problems\BinaryTreeTraversals\BinaryTreeTraversals\obj\Debug\BinaryTreeTraversals.exe
-G:\C_Sharp_Problems\General Problems\BinaryTreeTraversals\BinaryTreeTraversals\obj\Debug\BinaryTreeTraversals.pdb
-G:\C_Sharp_Problems\General Problems\BinaryTreeTraversals\BinaryTreeTraversals\obj\Debug\BinaryTreeTraversals.exe.config
