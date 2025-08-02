@@ -1,0 +1,8 @@
+G:\C_Sharp_Problems\QueueProblems\ImplementPeriorityQueue\ImplementPeriorityQueue\bin\Debug\ImplementPeriorityQueue.exe.config
+G:\C_Sharp_Problems\QueueProblems\ImplementPeriorityQueue\ImplementPeriorityQueue\bin\Debug\ImplementPeriorityQueue.exe
+G:\C_Sharp_Problems\QueueProblems\ImplementPeriorityQueue\ImplementPeriorityQueue\bin\Debug\ImplementPeriorityQueue.pdb
+G:\C_Sharp_Problems\QueueProblems\ImplementPeriorityQueue\ImplementPeriorityQueue\obj\Debug\ImplementPeriorityQueue.csproj.AssemblyReference.cache
+G:\C_Sharp_Problems\QueueProblems\ImplementPeriorityQueue\ImplementPeriorityQueue\obj\Debug\ImplementPeriorityQueue.csproj.CoreCompileInputs.cache
+G:\C_Sharp_Problems\QueueProblems\ImplementPeriorityQueue\ImplementPeriorityQueue\obj\Debug\ImplementPeriorityQueue.exe
+G:\C_Sharp_Problems\QueueProblems\ImplementPeriorityQueue\ImplementPeriorityQueue\obj\Debug\ImplementPeriorityQueue.pdb
+G:\C_Sharp_Problems\QueueProblems\ImplementPeriorityQueue\ImplementPeriorityQueue\obj\Debug\ImplementPeriorityQueue.exe.config
