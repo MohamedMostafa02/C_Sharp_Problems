@@ -1,108 +1,35 @@
 # Remove Invalid Parentheses – C# Console Application
 
-## 📋 Description
-This simple C# console application removes invalid (unmatched) parentheses from a given string. It ensures that every opening parenthesis `(` has a corresponding closing parenthesis `)`, and vice versa.
+📋 Description:
+This C# console application removes invalid (unmatched) parentheses from a string, ensuring all opening '(' have matching closing ')' and vice versa.
 
-## 💡 How It Works
-The program uses a **stack** and a **hash set** to track indices of unmatched parentheses:
+💡 How It Works:
+- Uses a Stack to track indices of opening parentheses.
+- Uses a HashSet to mark unmatched or extra parentheses.
+- Iterates through the input:
+  - On '(', push its index to the stack.
+  - On ')', if stack is empty → mark as invalid, else pop from the stack.
+- Any indices left in the stack after traversal are unmatched '(' → also marked invalid.
+- Builds a new string skipping all invalid indices.
 
-1. It loops through each character in the string:
-   - If it sees `'('`, it pushes its index onto a stack.
-   - If it sees `')'`:
-     - If the stack is empty, it means there’s no matching `'('`, so it's marked invalid.
-     - Otherwise, it pops from the stack, meaning a valid match was found.
-
-2. After the loop, any indices left in the stack (unmatched `'('`) are also marked invalid.
-
-3. Finally, it builds a new string excluding all characters at invalid indices.
-
-## 🧪 Example
+🧪 Example:
 Input:  "(()))"  
 Output: "(())"  
-Explanation: There’s one extra closing parenthesis `)`, which is removed to balance the string.
+Explanation: One extra ')' is removed to balance the parentheses.
 
-## 🧑‍💻 Code Overview
-- `RemoveInvalidParentheses(string s)` – Core function to process the string.
-- `Main()` – Runs the function on a test case and displays the result.
+🧑‍💻 Functions:
+- `RemoveInvalidParentheses(string s)` → Main logic.
+- `Main()` → Calls the function and prints the result.
 
-## 🧠 Concepts Used
+🧠 Concepts Used:
 - Stack
 - HashSet
-- String traversal and building a result string
-- Basic understanding of parentheses matching logic
+- String building and filtering
+- Parentheses matching
 
-## 📦 Output
-# Remove Invalid Parentheses – C# Console Application
+📦 Sample Output:
+(())   // Valid, balanced parentheses string
 
-## 📋 Description
-This simple C# console application removes invalid (unmatched) parentheses from a given string. It ensures that every opening parenthesis `(` has a corresponding closing parenthesis `)`, and vice versa.
-
-## 💡 How It Works
-The program uses a **stack** and a **hash set** to track indices of unmatched parentheses:
-
-1. It loops through each character in the string:
-   - If it sees `'('`, it pushes its index onto a stack.
-   - If it sees `')'`:
-     - If the stack is empty, it means there’s no matching `'('`, so it's marked invalid.
-     - Otherwise, it pops from the stack, meaning a valid match was found.
-
-2. After the loop, any indices left in the stack (unmatched `'('`) are also marked invalid.
-
-3. Finally, it builds a new string excluding all characters at invalid indices.
-
-## 🧪 Example
-Input:  "(()))"  
-Output: "(())"  
-Explanation: There’s one extra closing parenthesis `)`, which is removed to balance the string.
-
-## 🧑‍💻 Code Overview
-- `RemoveInvalidParentheses(string s)` – Core function to process the string.
-- `Main()` – Runs the function on a test case and displays the result.
-
-## 🧠 Concepts Used
-- Stack
-- HashSet
-- String traversal and building a result string
-- Basic understanding of parentheses matching logic
-
-## 📦 Output
-# Remove Invalid Parentheses – C# Console Application
-
-## 📋 Description
-This simple C# console application removes invalid (unmatched) parentheses from a given string. It ensures that every opening parenthesis `(` has a corresponding closing parenthesis `)`, and vice versa.
-
-## 💡 How It Works
-The program uses a **stack** and a **hash set** to track indices of unmatched parentheses:
-
-1. It loops through each character in the string:
-   - If it sees `'('`, it pushes its index onto a stack.
-   - If it sees `')'`:
-     - If the stack is empty, it means there’s no matching `'('`, so it's marked invalid.
-     - Otherwise, it pops from the stack, meaning a valid match was found.
-
-2. After the loop, any indices left in the stack (unmatched `'('`) are also marked invalid.
-
-3. Finally, it builds a new string excluding all characters at invalid indices.
-
-## 🧪 Example
-Input:  "(()))"  
-Output: "(())"  
-Explanation: There’s one extra closing parenthesis `)`, which is removed to balance the string.
-
-## 🧑‍💻 Code Overview
-- `RemoveInvalidParentheses(string s)` – Core function to process the string.
-- `Main()` – Runs the function on a test case and displays the result.
-
-## 🧠 Concepts Used
-- Stack
-- HashSet
-- String traversal and building a result string
-- Basic understanding of parentheses matching logic
-
-## 📦 Output
-(()) // Cleaned string with balanced parentheses
-
-
-## 👨‍💻 Author
-- **Name:** Mohamed Mostafa  
+👨‍💻 Author:
+Name: Mohamed Mostafa  
 
