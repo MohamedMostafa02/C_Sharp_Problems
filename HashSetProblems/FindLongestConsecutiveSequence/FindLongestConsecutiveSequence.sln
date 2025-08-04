@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLongestConsecutiveSequence", "FindLongestConsecutiveSequence\FindLongestConsecutiveSequence.csproj", "{C46A3B1C-1C56-47B7-A887-276FBE360774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C46A3B1C-1C56-47B7-A887-276FBE360774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46A3B1C-1C56-47B7-A887-276FBE360774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46A3B1C-1C56-47B7-A887-276FBE360774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46A3B1C-1C56-47B7-A887-276FBE360774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3622D16E-AFAD-4337-88E4-719CA87E9A6D}
+	EndGlobalSection
+EndGlobal
