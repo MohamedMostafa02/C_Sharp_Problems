@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimizingSpaceInLargeData", "OptimizingSpaceInLargeData\OptimizingSpaceInLargeData.csproj", "{668D10C9-0281-4D27-B34F-AECA1EA3BA3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668D10C9-0281-4D27-B34F-AECA1EA3BA3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668D10C9-0281-4D27-B34F-AECA1EA3BA3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668D10C9-0281-4D27-B34F-AECA1EA3BA3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668D10C9-0281-4D27-B34F-AECA1EA3BA3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BF2CE8F-847C-4FF6-AB89-7F1B586BCD65}
+	EndGlobalSection
+EndGlobal
